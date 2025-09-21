@@ -45,4 +45,4 @@ The dashboard provides insights into **sales performance, profitability, and cus
 ---
 
 ## 👩‍💻 Author
-Your Name – *Aspiring Data Analyst*  
+Hemasri Salumuri – *Aspiring Data Analyst*  
